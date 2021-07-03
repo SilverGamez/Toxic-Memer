@@ -1,4 +1,4 @@
 -rank @user | Shows your level
 -profile @user | See the profile of a mentioned user
--setbio <bio> | Sets your bio
+-setinfo <info> | Sets your info
 -invite | Invites the bot
