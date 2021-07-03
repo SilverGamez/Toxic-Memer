@@ -1,0 +1,2 @@
+-config | Shows the config in the server
+-setconfig <prefix, disabledCommand, enableCommand> <value> | Sets the config for the server

@@ -1,0 +1,5 @@
+-addmoney @user <amount> | Lets botdev add money
+-eval <code> | Lets a botdev eval code
+-exec <console command> | Run a messages to the command prompt
+-reload <command name> | Reloads a command
+-removetimer <timer> | Removes a timer if it stops working for whatever reason

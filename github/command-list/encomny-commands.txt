@@ -1,0 +1,20 @@
+-balance @user | Shows your balance or another users balance
+-beg | Beg for some coins
+-buy <item> | Buy times from the shop
+-daily | Get a daily 10,000 coins
+-deposit <amount/all> | Depoists your coins to your bank
+-dig | Dig for lots of coins
+-fish | Fish for coins
+-hunt | Hunt for coins
+-inventory | Shows your inventory
+-postmeme |  Lets you post a meme and make money
+-reborn | You loose all your coins and items
+-rob @user | Rob your friends
+-sell <item> | Sells an item
+-share @user <amount> | Shares money with friends.
+-shop | Shows the shop
+-withdraw <amount/all> | Withdraw money from you bank to your purse.
+-work | Work for a job and make money.
+-addmoney @user <amount> | Adds a users amount of coins (BOTDEV ONLY)
+-removetimer <@user> <timer> | Removes a timer (BOTDEV ONLY)
+-gamble <amount> | Gamble money for a change to win 2x, 3x or loose it all!
