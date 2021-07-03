@@ -1,0 +1,3 @@
+-play <song name or link> | Plays music
+-skip | Skips the song
+-leave | Makes the bot leave the voice channel
