@@ -1,0 +1,12 @@
+const Discord = require('discord.js');
+const db = require('quick.db');
+
+module.exports = {
+    name: '',
+    description: '',
+    usage: '',
+    aliases: [],
+    run: async(message, args, client, prefix, botdev) => {
+        
+    }
+}
