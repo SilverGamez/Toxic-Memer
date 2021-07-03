@@ -17,4 +17,4 @@
 -work | Work for a job and make money.
 -addmoney @user <amount> | Adds a users amount of coins (BOTDEV ONLY)
 -removetimer <@user> <timer> | Removes a timer (BOTDEV ONLY)
--gamble <amount> | Gamble money for a change to win 2x, 3x or loose it all!
+-gamble <amount> | Gamble money for a chance to win 2x, 3x or loose it all!
