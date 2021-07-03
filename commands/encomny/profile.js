@@ -26,7 +26,7 @@ module.exports = {
         if (commands === null) commands = 0;
         if (user.hasPermission("ADMINISTRATOR")) admin = true;
         if (user.id === '737862913309540413') botdeva = true;
-        if (bio === null) bio = `None. You can set yours with \`${db.get(`prefix_${message.guild.id}`) || '-'}setbio <bio>\``;
+        if (bio === null) bio = `None. You can set yours with \`${db.get(`prefix_${message.guild.id}`) || '-'}setinfo <info>\``;
 
 
         const description =

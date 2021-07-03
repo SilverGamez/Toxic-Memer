@@ -54,7 +54,7 @@ module.exports = {
         .setDescription(`\`${prefix}help <command>\`: This menu.
         \`${prefix}rank @user\`: Shows your level
         \`${prefix}profile @user\`: Shows your profile (level, coins, ect)
-        \`${prefix}setbio <bio>\`: Sets your bio
+        \`${prefix}setinfo <info>\`: Sets your info
         \`${prefix}invite\`: Invites the bot`)
         .setFooter('Page 3 of 5')
 
