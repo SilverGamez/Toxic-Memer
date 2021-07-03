@@ -1,0 +1,5 @@
+{
+  "token": "Your secret bots token",
+  "defaultPrefix": "Your bots default prefix",
+  "botdev": "Your discord user id"
+}
