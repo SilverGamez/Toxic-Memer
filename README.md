@@ -20,6 +20,16 @@ Look at the middle then go right a bit then up and you see a button that says / 
 
 ➡ [Music Commands](https://github.com/SilverGamez/Toxic-Memer/blob/main/github/command-list/music-commands.txt)
 
+## Config file
+
+```json
+{
+    "token": "YOUR BOTS TOKEN",
+    "defaultPrefix": "DISCORD BOT PREFIX",
+    "botdev": "YOUR DISCORD ID"
+}
+```
+
 ## Problems / Errors
 
 `If you have any problems with the bot, you can DM me: SilverGamez#6333 and I can try help you. I cant 100% promise that I can help but I will try my best 😊`
