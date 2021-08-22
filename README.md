@@ -20,7 +20,7 @@ Look at the middle then go right a bit then up and you see a button that says / 
 
 ➡ [Music Commands](https://github.com/SilverGamez/Toxic-Memer/blob/main/github/command-list/music-commands.txt)
 
-## Config file
+## Config.json
 
 ```json
 {
