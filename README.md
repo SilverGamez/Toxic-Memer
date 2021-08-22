@@ -32,4 +32,4 @@ Look at the middle then go right a bit then up and you see a button that says / 
 
 ## Problems / Errors
 
-`If you have any problems with the bot, you can DM me: SilverGamez#6333 and I can try help you. I cant 100% promise that I can help but I will try my best 😊`
+`Toxic Memer current doesnt work to download, i will fix at some point when i get the time`
